@@ -1,0 +1,57 @@
+nav.navbar.navbar-expand-lg {
+    border : 2px solid rgba(0, 0, 0, 0.616);
+}
+
+
+a.navbar-brand
+
+{
+    color:red;
+    padding-left: 50%;
+}
+
+div#navbarSupportedContent {
+    padding-left: 33px;
+}   
+footer {
+    background-color: #293339;
+    color: #fff;
+    font-size: 14px; 
+    height:700px;
+}
+.last-section
+{
+    padding-top:35px;
+/* background-color: chartreuse; */
+margin-left: 10%;
+padding-right: 20px;
+ 
+}
+.Subscribe
+{
+    border-bottom: 2px solid #697379;;
+}
+.Subscribe p
+{
+    
+   padding-left: 35px;
+   display: inline;
+   margin-right:30px;
+}
+ 
+ .email
+ {
+
+ }
+ .country
+ {
+    width: 40%;
+
+ }
+.last-footer
+{
+    font-size: 10px;
+    background-color: #697379;
+    color:white;
+    height: 80px;
+}
